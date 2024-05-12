@@ -32,6 +32,7 @@ EXTENSIONS=(
     "https://github.com/zanllp/sd-webui-infinite-image-browsing"
     "https://github.com/lobehub/sd-webui-lobe-theme"
     "https://github.com/BlafKing/sd-civitai-browser-plus"
+    "https://github.com/ilian6806/stable-diffusion-webui-state"
 )
 
 CHECKPOINT_MODELS=(
